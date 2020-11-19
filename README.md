@@ -1,6 +1,7 @@
 AndroidTrivia - starter code
 ============================
 
+
 Starter code for Android Kotlin Fundamentals codelab 3.1: Create and add a
 fragment.
 
@@ -48,3 +49,16 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+##Project Demo
+<p float = "left">
+<img src = "screenshots/about.jpg" width = 200>
+<img src = "screenshots/fragment_about.jpg" width = 200>
+<img src = "screenshots/fragment_game_won.jpg" width = 200>
+<img src = "screenshots/fragment_game_over.jpg" width = 200>
+<img src = "screenshots/fragment_rules.jpg" width = 200>
+<img src = "screenshots/nav_drawer.jpg" width = 200>
+<img src = "screenshots/question_one.jpg" width = 200>
+</p>
+
