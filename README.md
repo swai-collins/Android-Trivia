@@ -64,5 +64,6 @@ the License.
 <img src = "screenshots/fragment_rules.jpg" width = 200>
 <img src = "screenshots/nav_drawer.jpg" width = 200>
 <img src = "screenshots/question_one.jpg" width = 200>
+<img src = "screenshots/intent.jpg" width = 200>
 </p>
 
